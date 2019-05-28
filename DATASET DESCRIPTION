@@ -1,0 +1,6 @@
+The dataset which I have used for training set is based on data retrieved from Roads.
+You can get the set from the following link:
+https://archive.ics.uci.edu/ml/datasets/3D+Road+Network+%28North+Jutland%2C+Denmar k%29#
+
+The dataset was constructed by adding elevation information to a 2D road network in North Jutland, Denmark (covering a region of 185 x 135 km^2).
+Elevation values where extracted from a publicly available massive Laser Scan Point Cloud for Denmark.
